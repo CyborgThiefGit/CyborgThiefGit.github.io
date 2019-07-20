@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+	font-family: "Courier New";
+	background-color: dimgray;
+	background-image: url("20180829_150642.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: gainsboro
+}
+
+p {
+	color: maroon;
+}
+
