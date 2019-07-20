@@ -1,1 +1,1 @@
-Wedsite : EdenBealesHarper.github.io
+Website : EdenBealesHarper.github.io
