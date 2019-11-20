@@ -1,9 +1,17 @@
-body {
+html, body {
 	text-align: center;
 	font-family: "Courier New";
-	background-color: dimgray;
-	background-image: linear-gradient(to bottom, #000000, #080606, #0f0c0b, #13110f, #151613);
+	background: #black;
+	background: linear-gradient(to bottom, #000000, #080606, #0f0c0b, #13110f, #151613);
+	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.title {
+	color: gainsboro;
+	font-size: 32px;
 }
 
 h1 {
@@ -11,7 +19,7 @@ h1 {
 }
 
 p {
-	color: maroon;
+	color: gray;
 }
 
 img.logo {
