@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	font-family: "Courier New";
 	background-color: dimgray;
-	background-image: url("250px-068Machamp.png");
+	background-image: linear-gradient(to bottom, #000000, #080606, #0f0c0b, #13110f, #151613);
 	background-size: cover;
 }
 
@@ -26,4 +26,3 @@ img.logo {
     bottom: 5px; 
     width: 100%;
 }
-
