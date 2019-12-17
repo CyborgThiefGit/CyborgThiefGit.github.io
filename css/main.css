@@ -2086,7 +2086,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   list-style: none;
-  background-color: #FFFFFF;
+  background: none;
   border: none;
 }
 
@@ -2236,6 +2236,8 @@ h1, h2, h3, h4, h5, h6 {
   width: 260px;
   overflow-y: auto;
   transition: 0.4s;
+  background: none;
+  border: none;
 }
 
 #mobile-nav ul {
