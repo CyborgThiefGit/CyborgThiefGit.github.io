@@ -91,6 +91,10 @@ $black			: #222;
   font-weight: 300;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
   color: #777777;
   font-family: "Poppins", sans-serif;
@@ -2082,6 +2086,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+  background-color: #FFFFFF;
+  border: none;
 }
 
 .nav-menu ul {
