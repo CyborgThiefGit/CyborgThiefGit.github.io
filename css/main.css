@@ -2162,6 +2162,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #8490ff;
 }
 
+.nav-menu input:hover{
+	color: #8490ff;
+}
+
 .nav-menu > li {
   margin-left: 10px;
 }
@@ -2188,6 +2192,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu ul li:hover > a {
   color: #8490ff;
+}
+
+.nav-menu input:focus{
+	outline: none;
 }
 
 .nav-menu ul ul {
@@ -2247,6 +2255,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #mobile-nav ul li {
   position: relative;
+}
+
+#mobile-nav input{
+	color: white;
 }
 
 #mobile-nav ul li a{
