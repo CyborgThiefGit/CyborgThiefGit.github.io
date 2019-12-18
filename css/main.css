@@ -2249,7 +2249,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul li a {
-  color: #fff;
+  color: #ffffff;
   font-size: 13px;
   text-transform: uppercase;
   overflow: hidden;
@@ -2263,7 +2263,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #fff;
+  color: #ffffff;
 }
 
 #mobile-nav ul li li {
@@ -2276,7 +2276,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   padding: 15px;
   cursor: pointer;
-  color: #fff;
+  color: #ffffff;
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
