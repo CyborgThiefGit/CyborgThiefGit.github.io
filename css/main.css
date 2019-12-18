@@ -2577,10 +2577,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
 }
 
-.single-services:hover h4 {
-  color: #8490ff;
-}
-
 /*--------- End Services Area -------------*/
 /*--------- Start Facts Area -------------*/
 .single-fact {
