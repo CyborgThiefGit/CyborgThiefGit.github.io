@@ -2643,7 +2643,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio-area .filters ul li:hover:after {
-  width: calc(100% - 60px);
+  width: 60%;
   transition: width 350ms ease-out;
 }
 
