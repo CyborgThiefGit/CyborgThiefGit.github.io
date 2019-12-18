@@ -2248,7 +2248,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-#mobile-nav ul li a {
+#mobile-nav ul li a input{
   color: #ffffff;
   font-size: 13px;
   text-transform: uppercase;
