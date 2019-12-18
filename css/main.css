@@ -2236,7 +2236,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 260px;
   overflow-y: auto;
   transition: 0.4s;
-  color: #ffffff;
+  color: white;
 }
 
 #mobile-nav ul {
@@ -2249,7 +2249,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
-#mobile-nav ul li a input{
+#mobile-nav ul li a{
   color: #ffffff;
   font-size: 13px;
   text-transform: uppercase;
