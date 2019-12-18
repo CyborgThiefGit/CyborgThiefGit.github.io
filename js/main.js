@@ -47,7 +47,6 @@ $(document).ready(function() {
     //------- Filter  js --------//  
 
       $('.filters ul li').click(function(){
-		  console.log("We're In Bois");
         $('.filters ul li').removeClass('active');
         $(this).addClass('active');
         
