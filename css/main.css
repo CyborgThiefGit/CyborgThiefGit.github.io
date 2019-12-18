@@ -2208,6 +2208,9 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.4s;
   outline: none;
   cursor: pointer;
+  
+  background: none;
+  border: none;
 }
 
 #mobile-nav-toggle i {
@@ -2260,9 +2263,6 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   outline: none;
   font-weight: 400;
-  
-  background: none;
-  border: none;
 }
 
 #mobile-nav ul li a:hover {
