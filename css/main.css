@@ -2236,6 +2236,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 260px;
   overflow-y: auto;
   transition: 0.4s;
+  color: #ffffff;
 }
 
 #mobile-nav ul {
