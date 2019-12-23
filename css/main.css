@@ -222,6 +222,10 @@ td, th {
 	font-size: 24px;
 }
 
+.capList {
+	max-width:90%;
+}
+
 /**
  * For modern browsers
  * 1. The space content is one way to avoid an Opera bug when the
